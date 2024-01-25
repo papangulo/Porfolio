@@ -1,0 +1,23 @@
+body{
+    background-color: navajowhite;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+h2{
+    color: red;
+    height: fit-content( 50px);
+    font-size: large;
+    text-decoration: midnightblue;
+    align-content: normal;
+}
+p{
+    color: indigo;
+}
+h1{
+    font-size: large;
+    color: maroon;
+
+}
+
+
+
